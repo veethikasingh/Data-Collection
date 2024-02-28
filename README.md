@@ -67,5 +67,7 @@ About how many terrestrial (Earth) days exist in a Martian year? To answer this 
   Visually estimate the result by plotting the daily minimum temperature.
   Export the DataFrame to a CSV file.
 
+  Note: Took help from TA and AskBCS to resolve issues
+
 
 
